@@ -128,7 +128,7 @@ New-Object System.IdentityModel.Tokens.KerberosRequestorSecurityToken `
 
 | Atividade | Print |
 |---|---|
-| Estrutura de OUs e usuários | ![OUs](evidencias/NOVAS OUs E USUARIOS.png) |
+| Estrutura de OUs e usuários | ![OUs](evidencias/NOVAS_OUs_E_USUARIOS.png) |
 | GPO de bloqueio do Painel de Controle | ![GPO](evidencias/GPO_DE_BLOQUEIO_DE_ACESSO_AO_PAINEL_DE_CONTROLE.png) |
 | Tentativa de acesso bloqueada | ![Bloqueio](evidencias/TENTATIVA_DE_ACESSO_AO_PAINEL_DE_CONTROLE_BLOQUEADA.png) |
 | Configuração de Account Lockout | ![Lockout](evidencias/CONFIGURAÇÃO_DE_LOCKOUT.png) |
